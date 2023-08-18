@@ -1,0 +1,9 @@
+{
+  "name": "nodejs-design-pattern",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/stae1102/nodejs-design-pattern.git",
+  "author": "Seongtae <stae1102@gmail.com>",
+  "license": "MIT",
+  "type": "module"
+}
